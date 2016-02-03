@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600italic,300);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,100,300,700,900);
+
+body{
+  font-family: "Open Sans", monospace;
+  font-weight: normal;
+  font-size: 20px;
+}
+h1{
+  font-family:cursive;
+  color:purple
+}
+h2{
+  font-family: "Open Sans," sans-serif;
+  color: red;
+}
+#ingredients{
+  font-family: "Raleway",sans-serif;
+  font-weight: 100;
+  font-size: 15px
+}
+#directions{
+  font-weight: 700;
+  font-size: 23px
+  color: brown
+}
+#intro{
+  font-weight: 400;
+  font-size: 30px;
+  font-family: fantasy;
+  color:pink
+}
