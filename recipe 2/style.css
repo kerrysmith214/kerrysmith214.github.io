@@ -17,16 +17,29 @@ h2{
 #ingredients{
   font-family: "Raleway",sans-serif;
   font-weight: 100;
-  font-size: 15px
+  font-size: 15px;
+  box-sizing: border-box;
+  padding:auto;
+  margin:auto;
+  text-align: left;
+  float: left;
+  width:50%;
+  border-right:10px solid black;
 }
 #directions{
   font-weight: 700;
-  font-size: 23px
-  color: brown
+  font-size: 15px;
+  color: brown;
+  box-sizing:border-box;
+  padding:auto;
+  margin:auto;
+  text-align: left;
+  float:left;
+  width:50%;
 }
 #intro{
   font-weight: 400;
-  font-size: 30px;
+  font-size: 15px;
   font-family: fantasy;
   color:pink
 }
