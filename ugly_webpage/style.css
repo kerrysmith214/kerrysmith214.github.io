@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600italic,300);
+
+h1{font-size: 33px;
+  font-family: cursive;
+  color:yellow;
+  background-color: brown;
+}
+#jabberwock{
+  font-size: 12px;
+  color:purple;
+  font-weight: bolder;
+  font-family:monospace;
+  background-color:orange;
+}
+#jabberwocky{
+  color:#FFFFFF;
+background-color: green;
+margin: 2px;
+width:20%;
+padding:10%;
+border:10px;
+font-family: "Open Sans," sans-serif;
+border-color: orange;
+word spacing:3px;
+position: sticky;
+}
+#beware{
+  width:25%;
+  float:left;
+  margin:auto;
+  border: 10px solid orange;
+  letter-spacing: 30px;
+  text-decoration: line-through;
+
+}
+#he{
+  float:left;
+  width:40%
+  border:auto 10px  brown;
+  font-style: italic;
+  background-color: orange;
+}
+footer{
+  text-decoration: underline;
+}
