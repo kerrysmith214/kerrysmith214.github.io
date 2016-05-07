@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700italic);
+@import url(https://fonts.googleapis.com/css?family=Sonsie+One);
+@import url(https://fonts.googleapis.com/css?family=Cinzel+Decorative:400,900);
+h1{
+  font-family:'Cinzel Decorative', cursive;
+color: #A10B03;
+}
+h2{
+  color: #A10B03;
+  font-family:'Cinzel Decorative', cursive;
+    padding-bottom: 50px;
+border-bottom: solid #A10B03;
+}
+h3{
+  font-family:'Cinzel Decorative', cursive;
+color:#0ACCCC;
+  50px;
+}
+p{
+  font-family: "Sonsie",serif;
+  font-size: 20px;
+  text-align: center;
+border-bottom: solid #A10B03;
+color: #A10B03;
+}
+h4{
+  color:#A10B03;
+  font-family:'Cinzel Decorative', cursive;
+}
+body{
+  padding-bottom: 25px;
+  margin:auto;
+}
